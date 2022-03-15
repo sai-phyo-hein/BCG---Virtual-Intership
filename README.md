@@ -1,2 +1,1 @@
-# BCG---Virtual-Intership
-google colab file
+Analysis of customer churning for an energy company
